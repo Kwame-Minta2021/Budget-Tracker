@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1718126921473,
+      "tag": "0000_crazy_spectrum",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1718139973207,
+      "tag": "0001_abnormal_ezekiel",
+      "breakpoints": true
+    }
+  ]
+}
